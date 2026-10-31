@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1001,
+    "resName": "Player/player1",
+    "atk": 10,
+    "gold": 100
+  },
+  {
+    "id": 1002,
+    "resName": "Player/player2",
+    "atk": 10,
+    "gold": 200
+  }
+]
